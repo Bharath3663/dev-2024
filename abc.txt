@@ -1,2 +1,4 @@
 Hi this is bharath vallabaneni
 I am from andhra pradesh
+I am training to learn devops
+java home cloud
